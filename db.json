@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mariano",
+      "empresa": "SaleJoda",
+      "email": "marianook75@gmail.com",
+      "telefono": "3815214536",
+      "notas": "Soy picante",
+      "id": 1
+    },
+    {
+      "nombre": "Hernán",
+      "empresa": "SaleJoda",
+      "email": "marianook75@gmail.com",
+      "telefono": "3815214536",
+      "notas": "Soy picante",
+      "id": 2
+    },
+    {
+      "nombre": "Lucas",
+      "empresa": "JKMate",
+      "email": "lucas@lucas.com",
+      "telefono": "381475749",
+      "notas": "Luquiks",
+      "id": 3
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "JKMate 3.0",
+      "email": "pedro@hotmail.com",
+      "telefono": "82138123",
+      "notas": "Pedriks",
+      "id": 4
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "Poxics",
+      "email": "paula@paula.com",
+      "telefono": "83821123",
+      "notas": "hola 123",
+      "id": 5
+    }
+  ]
+}
